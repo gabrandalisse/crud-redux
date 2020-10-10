@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Whiskey",
+      "precio": "1000",
+      "id": 6
+    },
+    {
+      "nombre": "Merca",
+      "precio": 40,
+      "id": 7
+    },
+    {
+      "nombre": "Whiskey",
+      "precio": 110,
+      "id": 9
+    },
+    {
+      "nombre": "Gabi",
+      "precio": 22012,
+      "id": 10
+    }
+  ]
+}
